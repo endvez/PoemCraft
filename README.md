@@ -3,3 +3,7 @@ Trained a GPT-2-medium model on a custom dataset consisting of 6,500 poems and h
 Fine-tuned models in PyTorch with custom prompt tokens for style control and syllable-aware generation for haikus.
 Evaluated outputs via cosine similarity to real poems and syllable count validation for haikus using nltk.corpus.cmudict.
 
+Shakespeare poems sourced from https://github.com/cobanov/shakespeare-dataset.
+Other non-haiku poems sourced from https://www.public-domain-poetry.com/
+Haiku dataset created via ChaptGPT-4o.
+
